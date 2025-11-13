@@ -1,0 +1,21 @@
+{
+ "name": "footer-section",
+ "version": "1.0.0",
+ "description": "Marketing footer showcase with simple Node static server.",
+ "main": "server.js",
+ "scripts": {
+ "start": "node server.js"
+ },
+ "keywords": [
+ "footer",
+ "marketing",
+ "bitbash",
+ "static-site"
+ ],
+ "author": "",
+ "license": "MIT",
+ "dependencies": {
+ "express": "^4.19.2",
+ "morgan": "^1.10.0"
+ }
+}
